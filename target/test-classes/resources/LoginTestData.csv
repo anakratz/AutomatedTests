@@ -1,0 +1,7 @@
+testPJuser,email,senha,Duration(ms),Duration(ms)
+"",demosp4pj2@mailinator.com,Admin123,9031.0,9031.0
+testPFuser,email,senha,Duration(ms)
+"",sp3pf@mailinator.com,Admin123,8697.0
+"",sp3pfgimplus@mailinator.com,Admin123,8750.0
+testVendoruser,email,senha,Duration(ms),Duration(ms)
+"",demosp4vendedor@mailinator.com,Admin123,14709.0,14709.0
